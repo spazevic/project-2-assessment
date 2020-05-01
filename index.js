@@ -1,3 +1,4 @@
+require('dotenv').config()
 //require modules
 let express = require('express');
 let methodOverride = require('method-override')
